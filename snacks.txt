@@ -1,1 +1,2 @@
 samosa 15
+vada 12
